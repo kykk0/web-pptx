@@ -1,0 +1,7 @@
+slides
+slides.zip
+slides.pdf
+
+node_modules/
+packages/**/node_modules/
+
